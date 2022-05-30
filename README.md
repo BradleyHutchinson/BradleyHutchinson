@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @BradleyHutchinson
+- 👀 I’m interested in cybersecurity, coding and progamming
+- 🌱 I’m currently learning coding
